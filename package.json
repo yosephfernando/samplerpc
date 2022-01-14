@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@open-rpc/client-js": "^1.7.1"
+    }
+}
